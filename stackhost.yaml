@@ -2,7 +2,7 @@ user:
   name: kanhagarg7
   github: kanhagarg7 
 language: "python"
-python_version: "3.11"
+python_version: "3.10"
 
 commands:
   build:

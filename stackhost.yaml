@@ -1,0 +1,15 @@
+user:
+  name: kanhagarg7
+  github: kanhagarg7 
+language: "python"
+python_version: "3.12"
+
+commands:
+  build:
+    - "pip install -r requirements.txt"
+  package:
+    - "nano inxi"
+  start:
+    - "python3 -m pyUltroid"
+  env:
+    - "ENVIRONMENT=production"

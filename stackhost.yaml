@@ -8,7 +8,7 @@ commands:
   build:
     - "pip install -r requirements.txt"
   package:
-    - "build-essential"
+    - "ffmpeg" 
   start:
     - "python3 -m pyUltroid"
   env:

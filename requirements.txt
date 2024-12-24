@@ -31,6 +31,6 @@ requests
 tabulate
 telegraph
 youtube-search-python
-yt-dlp
+yt-dlp[default]
 speedtest-cli 
 # -------------------------------------------------------#

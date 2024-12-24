@@ -32,5 +32,6 @@ tabulate
 telegraph
 youtube-search-python
 yt-dlp[default]
+httpx
 speedtest-cli 
 # -------------------------------------------------------#

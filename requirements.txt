@@ -31,7 +31,7 @@ requests
 tabulate
 telegraph
 youtube-search-python
-yt-dlp[default]
+yt-dlp==2023.12.30
 httpx
 speedtest-cli 
 # -------------------------------------------------------#
